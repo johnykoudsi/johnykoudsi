@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Johny Koudsi</h1>
-<h3 align="center">A passionate software engineer</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnykoudsi&label=Profile%20views&color=0e75b6&style=flat" alt="johnykoudsi" /> </p>
+I'm a passionate software engineer with expertise in mobile development and a strong background in Flutter, JavaScript, Java, Adobe Animate, and UML diagrams. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
-- 📫 How to reach me **johnykodsy@gmail.com**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/johny koudsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johny koudsi" height="30" width="40" /></a>
-<a href="https://fb.com/johny kodsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johny kodsy" height="30" width="40" /></a>
-</p>
+- **Mobile Development**: Flutter, Java (Android)
+- **Web Development**: JavaScript
+- **Design**: Adobe Animate
+- **Diagrams**: UML Diagrams
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnykoudsi&show_icons=true&locale=en&layout=compact" alt="johnykoudsi" /></p>
+### [Project Name 1](link-to-project-repo)
+![Project 1 Screenshot](link-to-project-screenshot)
+
+Brief description of the project.
+
+### [Project Name 2](link-to-project-repo)
+![Project 2 Screenshot](link-to-project-screenshot)
+
+Brief description of the project.
+
+### [Project Name 3](link-to-project-repo)
+![Project 3 Screenshot](link-to-project-screenshot)
+
+Brief description of the project.
+
+## Contact Me
+
+Feel free to reach out to me:
+
+- [LinkedIn](link-to-linkedin-profile)
+- [Email](your-email@example.com)
+
+Let's connect and build amazing things together! 🚀
