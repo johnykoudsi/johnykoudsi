@@ -11,7 +11,7 @@ I'm a passionate software engineer with expertise in mobile development and a st
   </div>
   <div style="text-align: center;">
     <h3>Web Development</h3>
-    <img src="link-to-javascript-image" alt="JavaScript" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/javascript.png" alt="Javascript" width="100" height="100">
   </div>
   <div style="text-align: center;">
     <h3>Design</h3>
