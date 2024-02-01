@@ -5,9 +5,6 @@ I'm a passionate software engineer with expertise in mobile development and a st
 ## Skills
 
 ### Mobile Development
-![Flutter](# Hi there, I'm [Your Name]! 👋
-
-I'm a passionate software engineer with expertise in mobile development and a strong background in Flutter, JavaScript, Adobe Animate, and UML diagrams. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
 ## Skills
 
