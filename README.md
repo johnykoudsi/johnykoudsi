@@ -4,23 +4,11 @@ I'm a passionate software engineer with expertise in mobile development and a st
 
 ## Skills
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 20px;">
-  <div style="text-align: center;">
-    <h3>Mobile Development</h3>
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="100" height="100">
-  </div>
-  <div style="text-align: center;">
-    <h3>Web Development</h3>
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/javascript.png" alt="Javascript" width="100" height="100">
-  </div>
-  <div style="text-align: center;">
-    <h3>Design</h3>
-    <img src="link-to-adobeanimate-image" alt="Adobe Animate" width="100" height="100">
-  </div>
-  <div style="text-align: center;">
-    <h3>Diagrams</h3>
-    <img src="link-to-umldiagrams-image" alt="UML Diagrams" width="100" height="100">
-  </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="200" height="200" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/javascript.png" alt="Javascript" width="200" height="200" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="adobe animate" width="200" height="200" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UML.png" alt="UML" width="200" height="200">
 </div>
 
 ## Contact Me
