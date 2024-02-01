@@ -7,7 +7,7 @@ I'm a passionate software engineer with expertise in mobile development and a st
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 20px;">
   <div style="text-align: center;">
     <h3>Mobile Development</h3>
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/flutter.png" alt="Flutter" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="100" height="100">
   </div>
   <div style="text-align: center;">
     <h3>Web Development</h3>
