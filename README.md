@@ -5,40 +5,16 @@ I'm a passionate software engineer with expertise in mobile development and a st
 ## Skills
 
 ### Mobile Development
-
-## Skills
-
-### Mobile Development
-![Flutter](https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/flutter.png)
-
+<img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/flutter.png" alt="Flutter" width="100" height="100" style="margin-right: 20px;">
 
 ### Web Development
-![JavaScript](link-to-javascript-image)
+<img src="link-to-javascript-image" alt="JavaScript" width="100" height="100" style="margin-right: 20px;">
 
 ### Design
-![Adobe Animate](link-to-adobeanimate-image)
+<img src="link-to-adobeanimate-image" alt="Adobe Animate" width="100" height="100" style="margin-right: 20px;">
 
 ### Diagrams
-![UML Diagrams](link-to-umldiagrams-image)
-
-## Contact Me
-
-Feel free to reach out to me:
-
-- [LinkedIn](link-to-linkedin-profile)
-- [Email](your-email@example.com)
-
-Let's connect and build amazing things together! 🚀
-)
-
-### Web Development
-![JavaScript](link-to-javascript-image)
-
-### Design
-![Adobe Animate](link-to-adobeanimate-image)
-
-### Diagrams
-![UML Diagrams](link-to-umldiagrams-image)
+<img src="link-to-umldiagrams-image" alt="UML Diagrams" width="100" height="100" style="margin-right: 20px;">
 
 ## Contact Me
 
