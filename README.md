@@ -5,10 +5,10 @@ I'm a passionate software engineer with expertise in mobile development and a st
 ## Skills
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="100" height="100" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/javascript.png" alt="Javascript" width="100" height="100" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="adobe animate" width="100" height="100" style="margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UML.png" alt="UML" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="150" height="150" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/javascript.png" alt="Javascript" width="150" height="150" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="adobe animate" width="150" height="150" style="margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UML.png" alt="UML" width="150" height="150">
 </div>
 
 ## Contact Me
