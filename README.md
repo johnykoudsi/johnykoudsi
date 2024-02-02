@@ -6,13 +6,13 @@ I'm a passionate software engineer with expertise in mobile development and a st
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="100" height="100">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/js.png" alt="Javascript" width="100" height="100">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="adobe animate" width="100" height="100">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UML.png" alt="UML" width="100" height="100">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="100" height="110">
+   &nbsp;
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="UML" width="100" height="100">
 </div>
 
