@@ -23,7 +23,7 @@ I'm a passionate software engineer with expertise in mobile development and a st
 
 Feel free to reach out to me:
 
-- [LinkedIn](link-to-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/johny-koudsi-3a66b2239)
 - [Email](johnykodsy@gmail.com)
 
 Let's connect and build amazing things together! 🚀
