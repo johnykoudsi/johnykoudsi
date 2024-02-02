@@ -16,7 +16,9 @@ I'm a passionate software engineer with expertise in mobile development and a st
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="100" height="110">
    &nbsp;
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="UML" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="100" height="100">
+  &nbsp;
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="100" height="100">
 </div>
 
 
