@@ -3,7 +3,6 @@
 I'm a passionate software engineer with a strong background in mobile app development, system analysis and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
 
-![Icon](https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Developer.webp)
 
 ## Skills
 
