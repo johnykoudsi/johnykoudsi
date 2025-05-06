@@ -4,19 +4,25 @@ I'm a passionate software engineer with a strong background in mobile app develo
 
 ## Work Samples
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="300" height="300">
-  <div style="margin-left: 20px; max-width: 600px;">
-    <strong>Go Resume:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="300" height="300">
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Go Resume:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="300" height="300">
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Nostra Casa:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="300" height="300">
-  <div style="margin-left: 20px; max-width: 600px;">
-    <strong>Nostra Casa:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
-  </div>
-</div>
 
 
 ## Skills
