@@ -5,6 +5,14 @@ I'm a passionate software engineer with a strong background in mobile app develo
 ## Work Samples
 
 <table>
+    <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Fatora User" width="750" height="300">
+    </td>
+    <td style="padding-left: 20px;">
+      <strong>Go Resume:</strong> E-Payment mobile application, user can add his bank cards and use the to pay with QR, track his payments and control his card with multible actions (change pin, disable, reset pin count), also user can pay his bills online.
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="750" height="300">
