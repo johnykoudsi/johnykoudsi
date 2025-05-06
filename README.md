@@ -7,7 +7,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="500" height="300">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="700" height="300">
     </td>
     <td style="padding-left: 40px;">
       <strong>Go Resume:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
