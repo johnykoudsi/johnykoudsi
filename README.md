@@ -18,7 +18,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
       <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="750" height="250">
     </td>
     <td style="padding-left: 20px;">
-      <strong>Go Resume:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
+      <strong>Go Resume:</strong> a smart recruitment system with two mobile applications, one for the applicant and the other for the employer, and a web portal for user management and statistics.
     </td>
   </tr>
   <tr>
