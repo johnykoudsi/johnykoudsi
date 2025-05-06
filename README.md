@@ -7,7 +7,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="600" height="300">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="650" height="300">
     </td>
     <td style="padding-left: 20px;">
       <strong>Go Resume:</strong> a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
@@ -15,7 +15,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="600" height="300">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="650" height="300">
     </td>
     <td style="padding-left: 20px;">
       <strong>Nostra Casa:</strong> a real estates mobile application, allows users to browse estates and publish their own estates, provide a wide range of filters, VR view, and integration with google maps for better location services.
