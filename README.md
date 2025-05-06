@@ -2,6 +2,8 @@
 
 I'm a passionate software engineer with a strong background in mobile app development, system analysis and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
+## Work Samples
+
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Flutter" width="300" height="300">
 
 
