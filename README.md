@@ -4,9 +4,19 @@ I'm a passionate software engineer with a strong background in mobile app develo
 
 ## Work Samples
 
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Flutter" width="300" height="300">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Flutter" width="300" height="300">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="300" height="300">
+  <p style="margin-left: 20px;">
+    Go Resume: a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
+  </p>
+</div>
 
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="300" height="300">
+  <p style="margin-left: 20px;">
+    Nostra Casa: a smart recruitment system with two mobile applications—one for the applicant and the other for the employer—and a web portal for user management and statistics.
+  </p>
+</div>
 
 ## Skills
 
