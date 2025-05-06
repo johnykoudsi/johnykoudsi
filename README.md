@@ -5,6 +5,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 ## Work Samples
 
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Flutter" width="300" height="300">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Flutter" width="300" height="300">
 
 
 ## Skills
