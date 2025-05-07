@@ -5,43 +5,45 @@ I'm a passionate software engineer with a strong background in mobile app develo
 ## Work Samples
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-        <div style="margin-left: 15px;">
-      <strong>Fatora Mobile App</strong><br>E-Payment mobile application, user can add his bank cards and use the to pay with QR, track his payments and control his card with multible actions (change pin, disable, reset pin count), also user can pay his bills online.
-    </div>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" alt="Fatora Home" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" alt="Transactions" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" alt="Pay Now" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" alt="Card Management" width="300" height="300">
-          &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
-          &nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
-          &nbsp;&nbsp;
+<!-- Project 1: Fatora -->
+<div style="margin-bottom: 40px;">
+  <div style="margin-bottom: 15px;">
+    <h3>Fatora Mobile App</h3>
+    <p>
+      E-Payment mobile application. Users can add their bank cards and use them to pay with QR, track payments, and control cards with multiple actions (change PIN, disable, reset PIN count). Users can also pay bills online.
+    </p>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="300">
+  </div>
 </div>
 
 <hr style="margin: 40px 0; border: none; border-top: 2px solid #ccc;">
 
-<div style="display: flex; justify-content: center; align-items: center;">
-        <div style="margin-left: 15px;">
-      <strong>Merchant App</strong><br>Mobile application for merchants, allow them to make payments, view transactions, and recieve notifications. the application uses security methods to encrypt and decrypt data. The application is built using .Net for backend and Flutter for frontend. 
-    </div>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" alt="Merchant Home" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" alt="Filter" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" alt="Add Payment" width="300" height="300">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" alt="Notifications" width="300" height="300">
-          &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" alt="Payments" width="300" height="300">
-          &nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
-          &nbsp;&nbsp;
-<!-- </div>
+<!-- Project 2: Merchant App -->
+<div style="margin-bottom: 40px;">
+  <div style="margin-bottom: 15px;">
+    <h3>Merchant App</h3>
+    <p>
+      Mobile application for merchants to make payments, view transactions, and receive notifications. It uses encryption for data security and is built with .Net (backend) and Flutter (frontend).
+    </p>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="300">
+  </div>
+</div>
+
+<!-- 
 <table>
     <tr>
     <td>
