@@ -40,7 +40,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
           &nbsp;&nbsp;
-</div>
+<!-- </div>
 <table>
     <tr>
     <td>
@@ -67,7 +67,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
     </td>
   </tr>
 </table>
-
+ -->
 
 
 ## Skills
