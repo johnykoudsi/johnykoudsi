@@ -2,6 +2,7 @@
 
 I'm a passionate software engineer with a strong background in mobile app development, system analysis, and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe); margin: 30px 0;" />
 
 
 ## 💼 Work Samples
