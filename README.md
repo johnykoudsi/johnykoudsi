@@ -21,9 +21,26 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
           &nbsp;&nbsp;
-
 </div>
 
+
+<div style="display: flex; justify-content: center; align-items: center;">
+        <div style="margin-left: 15px;">
+      <strong>Fatora Mobile App</strong><br>E-Payment mobile application, user can add his bank cards and use the to pay with QR, track his payments and control his card with multible actions (change pin, disable, reset pin count), also user can pay his bills online.
+    </div>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" alt="Fatora Home" width="300" height="300">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" alt="Transactions" width="300" height="300">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" alt="Pay Now" width="300" height="300">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" alt="Card Management" width="300" height="300">
+          &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
+          &nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
+          &nbsp;&nbsp;
+</div>
 <table>
     <tr>
     <td>
