@@ -14,12 +14,12 @@ I'm a passionate software engineer with a strong background in mobile app develo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" alt="Transactions" width="300" height="300">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" alt="Pay Now" width="300" height="300">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" alt="Card Management" width="300" height="300">
           &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
           &nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
+ <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" alt="Limits" width="300" height="300">
           &nbsp;&nbsp;
 
 </div>
