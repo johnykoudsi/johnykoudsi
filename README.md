@@ -35,7 +35,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="300"
                style="width: 300px; height: 300px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+         onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="300">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="300">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="300">
