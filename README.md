@@ -4,26 +4,6 @@ I'm a passionate software engineer with a strong background in mobile app develo
 
 ## Work Samples
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
-
-  <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" width="150">
-    <div style="margin-left: 15px;">
-      <strong>Title 1:</strong><br>Description 1
-    </div>
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" width="150">
-    <div style="margin-left: 15px;">
-      <strong>Title 2:</strong><br>Description 2
-    </div>
-  </div>
-
-  <!-- Add more items -->
-
-</div>
-
 
 
 
