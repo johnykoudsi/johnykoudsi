@@ -23,6 +23,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;
 </div>
 
+<hr style="margin: 40px 0; border: none; border-top: 2px solid #ccc;">
 
 <div style="display: flex; justify-content: center; align-items: center;">
         <div style="margin-left: 15px;">
