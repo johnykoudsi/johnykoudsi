@@ -76,7 +76,7 @@ Real estate mobile app with estate browsing, VR viewing, custom filters, and Goo
 
 ## 📬 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/johny-koudsi-3a66b2239)
+- [LinkedIn](https://www.linkedin.com/in/johnny-koudsi-3a66b2239)
 - [Email](mailto:johnykodsy@gmail.com)
 
 Let's connect and build amazing things together! 🚀
