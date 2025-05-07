@@ -7,7 +7,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 <!-- Project 1: Fatora -->
 <div style="margin-bottom: 40px;">
   <div style="margin-bottom: 15px;">
-    <h3>Fatora Mobile App</h3>
+    <h3>💳 Fatora Mobile App</h3>
     <p>
       E-Payment mobile application. Users can add their bank cards and use them to pay with QR, track payments, and control cards with multiple actions (change PIN, disable, reset PIN count). Users can also pay bills online.
     </p>
@@ -27,13 +27,15 @@ I'm a passionate software engineer with a strong background in mobile app develo
 <!-- Project 2: Merchant App -->
 <div style="margin-bottom: 40px;">
   <div style="margin-bottom: 15px;">
-    <h3>Merchant App</h3>
+    <h3>🛍️ Merchant App</h3>
     <p>
       Mobile application for merchants to make payments, view transactions, and receive notifications. It uses encryption for data security and is built with .Net (backend) and Flutter (frontend).
     </p>
   </div>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="300">
+    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="300"
+               style="width: 300px; height: 300px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="300">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="300">
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="300">
