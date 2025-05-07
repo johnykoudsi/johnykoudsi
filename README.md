@@ -23,7 +23,6 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;
 
 </div>
-## 
 
 <table>
     <tr>
