@@ -2,6 +2,7 @@
 
 I'm a passionate software engineer with a strong background in mobile app development, system analysis, and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
+<hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;" />
 
 
 ## 💼 Work Samples
@@ -21,7 +22,7 @@ E-Payment mobile application. Users can add their bank cards and use them to pay
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
 </div>
 
-<hr/>
+<hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;" />
 
 ### 🛍️ Merchant App
 
