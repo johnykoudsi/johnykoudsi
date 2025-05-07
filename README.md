@@ -16,6 +16,8 @@ I'm a passionate software engineer with a strong background in mobile app develo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="adobe animate" width="100" height="100">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="UML" width="100" height="110">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 
