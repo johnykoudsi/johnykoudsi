@@ -9,13 +9,13 @@ I'm a passionate software engineer with a strong background in mobile app develo
         <div style="margin-left: 15px;">
       <strong>Title 2:</strong><br>Description 2
     </div>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Flutter" width="200" height="300">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Flutter" width="300" height="300">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Javascript" width="200" height="300">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Javascript" width="300" height="300">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="adobe animate" width="200" height="300">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="adobe animate" width="300" height="300">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="UML" width="200" height="300">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="UML" width="300" height="300">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
