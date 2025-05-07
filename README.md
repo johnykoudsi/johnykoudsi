@@ -11,9 +11,6 @@ I'm a passionate software engineer with a strong background in mobile app develo
 <div style="margin-bottom: 10px;">
 E-Payment mobile application. Users can add their bank cards and use them to pay with QR, track payments, and control cards with multiple actions (change PIN, disable, reset PIN count). Users can also pay bills online.
 </div>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Payment](https://img.shields.io/badge/QR%20Payments-00C853?style=for-the-badge)
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="250"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" width="250"/>
