@@ -6,7 +6,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-        <div style="margin-left: 5px;">
+        <div style="margin-left: 15px;">
       <strong>Fatora Mobile App</strong><br>E-Payment mobile application, user can add his bank cards and use the to pay with QR, track his payments and control his card with multible actions (change pin, disable, reset pin count), also user can pay his bills online.
     </div>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Flutter" width="300" height="300">
