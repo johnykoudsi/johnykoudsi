@@ -2,7 +2,6 @@
 
 I'm a passionate software engineer with a strong background in mobile app development, system analysis, and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
-<hr style="border: 10; height: 15px; background: #ccc; margin: 20px 110;" />
 
 
 ## 💼 Work Samples
@@ -22,7 +21,6 @@ E-Payment mobile application. Users can add their bank cards and use them to pay
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
 </div>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;" />
 
 ### 🛍️ Merchant App
 
@@ -39,7 +37,6 @@ Mobile app for merchants to process payments, view transactions, and receive not
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
 </div>
 
-<hr/>
 
 ### 📄 Go Resume
 
@@ -51,7 +48,6 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" width="250"/>
 </div>
 
-<hr/>
 
 ### 🏠 Nostra Casa
 
