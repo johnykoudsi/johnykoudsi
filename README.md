@@ -12,7 +12,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 E-Payment mobile application. Users can add their bank cards and use them to pay with QR, track payments, and control cards with multiple actions (change PIN, disable, reset PIN count). Users can also pay bills online.
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="250" title="titleeee"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" width="250"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" width="250"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" width="250"/>
