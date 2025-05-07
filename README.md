@@ -4,6 +4,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
 
 ## Work Samples
 
+<div style="display: flex; justify-content: center; align-items: center;">
 
 <div style="display: flex; justify-content: center; align-items: center;">
         <div style="margin-left: 15px;">
