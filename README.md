@@ -19,6 +19,8 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" alt="Add Card" width="300" height="300">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
