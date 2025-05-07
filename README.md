@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer with a strong background in mobile app development, system analysis, and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
---
+
 
 ## 💼 Work Samples
 
@@ -62,7 +62,7 @@ Real estate mobile app with estate browsing, VR viewing, custom filters, and Goo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" width="250"/>
 </div>
 
----
+
 
 ## 🧠 Skills
 
@@ -75,7 +75,7 @@ Real estate mobile app with estate browsing, VR viewing, custom filters, and Goo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="80">
 </div>
 
----
+
 
 ## 📬 Contact Me
 
