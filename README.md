@@ -1,91 +1,92 @@
 # Hi there, I'm Johnny! 👋
 
-I'm a passionate software engineer with a strong background in mobile app development, system analysis and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
-
-## Work Samples
-
-## 💳 Fatora Mobile App
-
-E-Payment mobile application. Users can add their bank cards and use them to pay with QR, track payments, and control cards with multiple actions (change PIN, disable, reset PIN count). Users can also pay bills online.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
-</p>
+I'm a passionate software engineer with a strong background in mobile app development, system analysis, and data analysis. I love crafting intuitive and efficient solutions to complex problems. Welcome to my GitHub profile!
 
 ---
 
-## 🛍️ Merchant App
+## 🛠 Work Samples
 
-Mobile application for merchants to make payments, view transactions, and receive notifications. It uses encryption for data security and is built with .Net (backend) and Flutter (frontend).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
-</p>
-
-
-<!-- 
 <table>
-    <tr>
+  <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora User.png" alt="Fatora User" width="750" height="250">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Fatora Home.png" width="300"/>
     </td>
-    <td style="padding-left: 20px;">
-      <strong>Fatora:</strong> E-Payment mobile application, user can add his bank cards and use the to pay with QR, track his payments and control his card with multible actions (change pin, disable, reset pin count), also user can pay his bills online.
+    <td>
+      <strong>💳 Fatora Mobile App</strong><br/>
+      E-Payment app where users add cards, pay with QR, track payments, and manage cards (change PIN, disable, reset attempts). Users can also pay bills online.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" alt="Go Resume" width="750" height="250">
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Transactions.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Pay Now.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Card Management.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Card.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="120"/>
     </td>
-    <td style="padding-left: 20px;">
-      <strong>Go Resume:</strong> a smart recruitment system with two mobile applications, one for the applicant and the other for the employer, and a web portal for user management and statistics.
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="300"/>
+    </td>
+    <td>
+      <strong>🛍️ Merchant App</strong><br/>
+      Mobile app for merchants to process payments, view transactions, and receive secure notifications. Built using Flutter and .NET, with data encryption.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" alt="Nostra Casa" width="750" height="250">
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="120"/>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="120"/>
     </td>
-    <td style="padding-left: 20px;">
-      <strong>Nostra Casa:</strong> a real estates mobile application, allows users to browse estates and publish their own estates, provide a wide range of filters, VR view, and integration with google maps for better location services.
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" width="300"/>
+    </td>
+    <td>
+      <strong>📄 Go Resume</strong><br/>
+      A smart recruitment platform with two mobile apps (Applicant & Employer) and a web portal for user management, job matching, and statistics.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" width="300"/>
+    </td>
+    <td>
+      <strong>🏠 Nostra Casa</strong><br/>
+      Real estate mobile app with estate browsing, VR viewing, custom filters, and Google Maps integration. Users can post or search for properties.
     </td>
   </tr>
 </table>
- -->
 
+---
 
-## Skills
+## 🧠 Skills
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="100" height="100">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/js.png" alt="Javascript" width="100" height="100">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="adobe animate" width="100" height="100">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="100" height="110">
-   &nbsp;
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="100" height="100">
-  &nbsp;
-    <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="100" height="100">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="80"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/js.png" alt="JavaScript" width="80"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="Adobe Animate" width="80"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="80"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="80"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="80"/>
 </div>
 
+---
 
-
-## Contact Me
-
-Feel free to reach out to me:
+## 📬 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/johny-koudsi-3a66b2239)
-- [Email](johnykodsy@gmail.com)
+- [Email](mailto:johnykodsy@gmail.com)
 
-Let's connect and build amazing things together! 🚀
+Let’s connect and build amazing things together! 🚀
