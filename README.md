@@ -23,8 +23,7 @@ I'm a passionate software engineer with a strong background in mobile app develo
           &nbsp;&nbsp;
 
 </div>
-<div style="display: flex; justify-content: center; align-items: center;">
-
+## 
 
 <table>
     <tr>
