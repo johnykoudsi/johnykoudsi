@@ -36,6 +36,28 @@ Mobile app for merchants to process payments, view transactions, and receive not
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
 </div>
 
+### 🏠 Nostra Casa
+
+<div style="margin-bottom: 10px;">
+Real estate mobile app with estate browsing, VR viewing, custom filters, and Google Maps integration. Users can post or search for properties.
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step1.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step2.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step3.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step4.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step5.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step6.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step7.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step8.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/step9.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/fav.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/explore.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/details.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Promote.png" width="250"/>
+
+</div>
 
 ### 📄 Go Resume
 
@@ -48,15 +70,7 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
 </div>
 
 
-### 🏠 Nostra Casa
 
-<div style="margin-bottom: 10px;">
-Real estate mobile app with estate browsing, VR viewing, custom filters, and Google Maps integration. Users can post or search for properties.
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Nostra Casa.png" width="250"/>
-</div>
 
 
 
