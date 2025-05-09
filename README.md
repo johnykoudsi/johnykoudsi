@@ -20,22 +20,6 @@ E-Payment mobile application. Users can add their bank cards and use them to pay
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
 </div>
 
-
-### 🛍️ Merchant App
-
-<div style="margin-bottom: 10px;">
-Mobile app for merchants to process payments, view transactions, and receive notifications. Built with .NET and Flutter, it includes secure data encryption.
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
-</div>
-
 ### 🏠 Nostra Casa
 
 <div style="margin-bottom: 10px;">
@@ -58,6 +42,22 @@ Real estate mobile app with estate browsing, VR viewing, custom filters, and Goo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Promote.png" width="250"/>
 
 </div>
+### 🛍️ Merchant App
+
+<div style="margin-bottom: 10px;">
+Mobile app for merchants to process payments, view transactions, and receive notifications. Built with .NET and Flutter, it includes secure data encryption.
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Merchant Home.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Filter.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
+</div>
+
+
 
 ### 📄 Go Resume
 
