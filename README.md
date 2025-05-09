@@ -33,7 +33,7 @@ Mobile app for merchants to process payments, view transactions, and receive not
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Add Payment.png" width="250"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Notifications.png" width="250"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Payments.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Limits.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
 </div>
 
 
