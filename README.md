@@ -96,7 +96,7 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
     &nbsp;  &nbsp;
     <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/azure.png" alt="azure" width="100">
     &nbsp;  &nbsp;
-      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/bloc.png" alt="bloc" width="100">
+      <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/bloc.png" alt="bloc" width="200">
     &nbsp;  &nbsp;
 </div>
 
