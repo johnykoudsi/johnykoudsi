@@ -79,10 +79,15 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/flutter.png" alt="Flutter" width="80">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/js.png" alt="JavaScript" width="80">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/adobe.png" alt="Adobe Animate" width="80">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="80">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="80">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="80">
 </div>
 
