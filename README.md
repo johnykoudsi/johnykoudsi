@@ -42,6 +42,7 @@ Real estate mobile app with estate browsing, VR viewing, custom filters, and Goo
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Promote.png" width="250"/>
 
 </div>
+
 ### 🛍️ Merchant App
 
 <div style="margin-bottom: 10px;">
