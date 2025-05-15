@@ -86,11 +86,11 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
   &nbsp;  &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/UM.png" alt="UML" width="70">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="80">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/java.png" alt="Java" width="90">
     &nbsp;
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/angular.png" alt="C++" width="80">
   &nbsp;  &nbsp;
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="80">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/C++.png" alt="C++" width="70">
 </div>
 
 
