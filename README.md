@@ -58,7 +58,7 @@ Mobile app for merchants to process payments, view transactions, and receive not
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
 </div>
 
-### 🛍️Plan Vite
+### 📝Plan Vite
 
 <div style="margin-bottom: 10px;">
 Task management mobile application, enable users to create projects, add other users to projects, create tasks, create sprints, and control tasks flow within the sprints.
