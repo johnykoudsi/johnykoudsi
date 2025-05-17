@@ -58,7 +58,21 @@ Mobile app for merchants to process payments, view transactions, and receive not
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/PaymentInfo.png" width="250"/>
 </div>
 
+### 🛍️Plan Vite
 
+<div style="margin-bottom: 10px;">
+Task management mobile application, enable users to create projects, add other users to projects, create tasks, create sprints, and control tasks flow within the sprints.
+The application supports Arabic and English.
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/welcome.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/login.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/home.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/add.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/sprints.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/options.png" width="250"/>
+</div>
 
 ### 📄 Go Resume
 
