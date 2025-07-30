@@ -81,7 +81,7 @@ A smart recruitment platform with two mobile apps (Applicant & Employer) and a w
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" width="290"/>
+  <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/Go Resume.png" width="280"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/go_resume_login.png" width="240"/>
   <img src="https://raw.githubusercontent.com/johnykoudsi/johnykoudsi/main/images/go_resume_signup.png" width="240"/>
 </div>
